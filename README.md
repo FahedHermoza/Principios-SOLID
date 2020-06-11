@@ -19,7 +19,8 @@ De un software complejo cada clase solo debería ser responsable de una tarea, e
 - [x] Alta cohesión y bajo acoplamiento.
 
 ### Acoplamiento & Cohesión
-Acoplamiento: Grado de interdependencia entre módulos de software 
+Acoplamiento: Grado de interdependencia entre módulos de software.
+ 
 Cohesión: Grado en que los elementos de un modulo permanecen juntos. 
 
 **Ventajas:**
