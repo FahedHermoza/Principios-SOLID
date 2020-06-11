@@ -74,11 +74,6 @@ Puedes usar inyección de dependencias para resolver este problema.
 
 # Implementación
 El código de ejemplo se basa en el lenguaje kotlin, utilice el framework IntelliJ IDEA.
-- [x] [Código - Responsabilidad única](https://github.com/FahedHermoza/Principios-SOLID/tree/master/Principios%20SOLID/src/SOLID/srp)
-- [x] [Código - Principio Abierto/Cerrado](https://github.com/FahedHermoza/Principios-SOLID/tree/master/Principios%20SOLID/src/SOLID/ocp) 
-- [x] [Código - Principio de Sustitución de Liskov](https://github.com/FahedHermoza/Principios-SOLID/tree/master/Principios%20SOLID/src/SOLID/lsp)
-- [x] [Código - Principio de Segregación de Interfaz](https://github.com/FahedHermoza/Principios-SOLID/tree/master/Principios%20SOLID/src/SOLID/isp)  
-- [x] [Código - Principio de Inversión de Dependencias](https://github.com/FahedHermoza/Principios-SOLID/tree/master/Principios%20SOLID/src/SOLID/div)
 
 # Desarrollador
 **Si te sirvió** puedes darme manito arriba en mi [blog](https://www.facebook.com/fahedhermoza/).
