@@ -73,8 +73,9 @@ Puedes usar inyección de dependencias para resolver este problema.
 - [x] Mayor mantenibilidad.
 - [x] Menor acoplamiento fuerte.
 
-### Inyección de dependencias.
-Es el proceso mediante el cual construimos dependencias (objetos, entidades, instancias) fuera del objeto dependiente y se lo proveemos cuando lo necesite. 
+### Inyección de dependencias
+Es el proceso mediante el cual construimos dependencias (objetos, entidades, instancias) fuera del objeto dependiente y se lo proveemos cuando lo necesite.
+
 **Ventajas:**
 - [x] Mayor legibilidad.
 - [x] Mayor expansibilidad.
