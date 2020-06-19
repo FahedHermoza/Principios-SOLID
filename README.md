@@ -19,7 +19,8 @@ De un software complejo cada clase solo debería ser responsable de una tarea, e
 - [x] Alta cohesión y bajo acoplamiento.
 
 ### Acoplamiento & Cohesión
-Acoplamiento: Grado de interdependencia entre módulos de software 
+Acoplamiento: Grado de interdependencia entre módulos de software.
+
 Cohesión: Grado en que los elementos de un modulo permanecen juntos. 
 
 **Ventajas:**
@@ -71,6 +72,14 @@ Puedes usar inyección de dependencias para resolver este problema.
 - [x] Mayor testeabilidad.
 - [x] Mayor mantenibilidad.
 - [x] Menor acoplamiento fuerte.
+
+### Inyección de dependencias.
+Es el proceso mediante el cual construimos dependencias (objetos, entidades, instancias) fuera del objeto dependiente y se lo proveemos cuando lo necesite. 
+**Ventajas:**
+- [x] Mayor legibilidad.
+- [x] Mayor expansibilidad.
+- [x] Mayor mantenibilidad.
+- [x] Mayor testeabilidad.
 
 # Implementación
 El código de ejemplo se basa en el lenguaje kotlin, utilice el framework IntelliJ IDEA.
